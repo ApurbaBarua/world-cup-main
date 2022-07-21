@@ -698,12 +698,13 @@ nav a{
         }
 
         .Only_For_Tablet_Responsive_Button{
-            margin: 20px;
+            text-align: center;
+            margin-top: 220px;
             visibility: visible;
         }
     
        footer{
-        margin-top: 260px;
+        margin-top: 100px;
         margin-left: 20px;
         text-align: center;
         background-color: black;
